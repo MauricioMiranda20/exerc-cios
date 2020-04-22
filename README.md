@@ -1,2 +1,2 @@
-# exerc-cios
-apenas exercícios 
+# exercicios
+apenas exercícios para teste
