@@ -1,0 +1,2 @@
+# exerc-cios
+apenas exercícios 
