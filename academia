@@ -31,10 +31,10 @@ public class MainTes7 {
         
         Avaliacao avaliacao = new Avaliacao(75.34,1.83);
         
-        System.out.println(""+avaliacao.getPeso());
-        System.out.println(""+avaliacao.getAltura());
-        System.out.println(""+avaliacao.indice());
-        System.out.println(""+avaliacao.classificacao());
+        System.out.println(avaliacao.getPeso());
+        System.out.println(avaliacao.getAltura());
+        System.out.println(avaliacao.indice());
+        System.out.println(avaliacao.classificacao());
         
         res = avaliacao.classificacao();
         System.out.println("Voce ta :"+res);
