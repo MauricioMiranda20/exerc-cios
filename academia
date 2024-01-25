@@ -29,7 +29,7 @@ public class MainTes7 {
         //System.out.print("Qual é sua altura: ");
         //b = escrever.nextFloat();
         
-        Avaliacao avaliacao = new Avaliacao(90,2);
+        Avaliacao avaliacao = new Avaliacao(75.34,1.83);
         
         System.out.println(""+avaliacao.getPeso());
         System.out.println(""+avaliacao.getAltura());
