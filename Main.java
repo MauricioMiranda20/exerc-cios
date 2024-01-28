@@ -3,7 +3,7 @@ package maintes7;
 
 import java.util.Scanner;
 
-public class MainTes7 {
+public class Main {
 
     public static void main(String[] args) {
 
